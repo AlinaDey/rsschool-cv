@@ -2,8 +2,11 @@
 
 
 *e-mail* deylina70@gmail.com
+
 *dickord* AlinaDeykina(@AlinaDey)
+
 *telephone* +79531564285
+
 *github* AlinaDey
 
 Last year I completed courses in basic Html and css. At the beginning of 2022, I found courses from RSSchool. I signed up for Stage-1, but in the process I realized that my knowledge was not enough. 
@@ -26,7 +29,7 @@ function multiply(a, b){
 ## **Work experience**
 
 Html, scc – [work1](https://github.com/AlinaDey/work1 "work1")
-Html, scc –  [work2](https://github.com/AlinaDey/work2 "work2"
+Html, scc –  [work2](https://github.com/AlinaDey/work2 "work2")
 Html, scc, js –  [work3](https://github.com/AlinaDey/work3 "work3")
 Html, css –  [work4](https://github.com/AlinaDey/work4 "work4")
 
