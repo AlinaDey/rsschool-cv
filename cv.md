@@ -1,5 +1,7 @@
 # **Deykina Alina**
 
+![Deykina Alina](/img/me.jpg "Deykina Alina")
+
 
 *e-mail* deylina70@gmail.com
 
