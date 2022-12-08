@@ -12,9 +12,9 @@
 
 *telephone* +79531564285
 
-*github* AlinaDey[AlinaDey](https://github.com/AlinaDey "AlinaDey")
+*github* [AlinaDey](https://github.com/AlinaDey "AlinaDey")
 
-==========
+====================
 
 ## **About me**
 
@@ -22,7 +22,7 @@ Last year I completed courses in basic Html and css. At the beginning of 2022, I
 
 I was glad this fall I learned about Stage-0. I hope this course will help me reach a higher level of knowledge and go to study further
 
-========
+====================
 
 ## **Skills**
 
@@ -32,7 +32,7 @@ I was glad this fall I learned about Stage-0. I hope this course will help me re
 4. Figma, Adobe Photoshop
 5. VS Code
 
-=======
+====================
 
 ## **Code examples**
 
@@ -42,8 +42,7 @@ function multiply(a, b){
 }
 
 ```
-
-========
+====================
 
 ## **Work experience**
 
@@ -55,7 +54,7 @@ function multiply(a, b){
 
 * Html, css –  [work4](https://github.com/AlinaDey/work4 "work4")
 
-=======
+====================
 
 ## **Education**
 
@@ -68,7 +67,7 @@ Master, Human Resources Management
 *2021* St. Petersburg State University of Industrial Technologies and Design, St. Petersburg
 Course Graphic design and web page layout
 
-========
+====================
 
 ## **English**
 
