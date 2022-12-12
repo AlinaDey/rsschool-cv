@@ -3,25 +3,50 @@
 * {
     margin: 0;
     padding: 0;
-  }
+}
   
-  body {
-      margin: 0 auto;
-      width: 1000px;
+body {
+    margin: 0 auto;
+    width: 1000px;
     background: #f8f7f2;
     font-family: "Montserrat", sans-serif;
     height: 100%;
   }
   
-  header, main, footer {
-      margin: 0 auto;
-      text-align: center;
+header, main, footer {
+    margin: 0 auto;
+    text-align: center;
   }
   
-  li {
-      list-style-type: none;
+li {
+    list-style-type: none;
   }
   
-  a {
-      text-decoration: none;
+a {
+    text-decoration: none;
   }
+
+.menu {
+	display: block;
+	margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.menu li {
+	display: inline-block;
+    margin: 0 10px;
+    padding: 0;
+}
+
+.menu li a {
+	color: #6b4c3a;
+	font-size: 15px;
+	font-weight: 600;
+	width: 130px;
+}
+
+.menu a:hover {
+  color: #74748a;
+}
