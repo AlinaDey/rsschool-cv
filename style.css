@@ -182,3 +182,13 @@ section li, section p {
   color: black;
   font-size: 14px;
 }
+
+footer {
+	display: block;
+	margin-bottom: 30px;
+}
+
+footer a, footer p {
+	display: inline-block;
+	margin-right: 30px;
+}
