@@ -50,3 +50,39 @@ a {
 .menu a:hover {
   color: #74748a;
 }
+
+header {
+	padding-bottom: 30px;
+	height: 280px;
+	position: relative;
+	border-bottom: 1px solid #6b4c3a;
+}
+
+.photo {
+	position: absolute;
+	left: 150px;
+}
+
+.header-photo {
+	width: 250px;
+	height: 280px;
+	border: 1px solid #6b4c3a;
+	border-radius: 50px;
+}
+
+.header-text {
+	position: absolute;
+	right: 150px;
+	top: 50px;
+	margin: 0 auto;
+}
+
+h1	{
+	font-size: 40px;
+	font-weight: 800;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: 600;
+}
